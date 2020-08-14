@@ -7,6 +7,7 @@ A list of implementation of algorithms
 | --- | --- | --- |
 | 1 | Linear Search | [Link](searching/linear-search.cpp) |
 | 2 | Binary Search | [Link](searching/binary-search.cpp) |
+| 3 | Ternary Search | [Link](searching/ternary-search.cpp) |
 
 ## Sorting
 
