@@ -19,6 +19,12 @@ A list of implementation of algorithms
 | 4 | Merge Sort | [Link](sorting/merge-sort.cpp) | - |
 | 5 | Quick Sort | [Link](sorting/quick-sort.cpp) | [Randomized](sorting/quick-sort-randomized.cpp) |
 
+## Graph Algorithms
+
+| S.no. | Algorithm | Implementation |
+| --- | --- | --- |
+| 1 | Breadth First Search (BFS) | [Link](graph/bfs.cpp) |
+
 ## MathCepts
 
 Oh, it's just (Math + Concepts) 😉
