@@ -18,12 +18,14 @@ A list of implementation of algorithms
 | 3 | Insertion Sort | [Link](sorting/insertion-sort.cpp) | - |
 | 4 | Merge Sort | [Link](sorting/merge-sort.cpp) | - |
 | 5 | Quick Sort | [Link](sorting/quick-sort.cpp) | [Randomized](sorting/quick-sort-randomized.cpp) |
+| 6 | Heap Sort | [Link](sorting/heap-sort.cpp) | - |
 
 ## Graph Algorithms
 
 | S.no. | Algorithm | Implementation |
 | --- | --- | --- |
 | 1 | Breadth First Search (BFS) | [Link](graph/bfs.cpp) |
+| 2 | Depth First Search (DFS) | [Link](graph/dfs.cpp) |
 
 ## MathCepts
 
