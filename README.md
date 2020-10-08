@@ -54,4 +54,4 @@ Oh, it's just (Math + Concepts) 😉
 ### Functions
 | S.no. | Algorithm | Implementation |
 | --- | --- | --- |
-| 1 | Euler's Totient Function | [Link](math/gcd/euler-totient-function.cpp) |
+| 1 | Euler's Totient Function | [Link](math/functions/euler-totient-function.cpp) |
