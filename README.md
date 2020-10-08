@@ -1,5 +1,5 @@
 # algorithms
-A list of implementation of algorithms
+A list of implementation of algorithms in C++
 
 ## Searching
 
