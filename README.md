@@ -1,6 +1,15 @@
 # algorithms
 A list of implementation of algorithms in C++
 
+## Contributing
+
+Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+You can also contribute by sharing!
+Share the list with your classmates, your friends and everyone :)
+
+I really hope that more people can benefit from this list!
+
 ## Searching
 
 | S.no. | Algorithm | Implementation |
