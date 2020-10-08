@@ -36,3 +36,4 @@ Oh, it's just (Math + Concepts) 😉
 | S.no. | Algorithm | Implementation |
 | --- | --- | --- |
 | 1 | Sieve of Eratosthenes | [Link](math/primality/sieve-of-eratosthenes.cpp) |
+| 2 | Euclid's GCD | [Link](math/gcd/euclid-gcd.cpp) |
