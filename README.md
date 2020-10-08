@@ -45,4 +45,13 @@ Oh, it's just (Math + Concepts) 😉
 | S.no. | Algorithm | Implementation |
 | --- | --- | --- |
 | 1 | Sieve of Eratosthenes | [Link](math/primality/sieve-of-eratosthenes.cpp) |
-| 2 | Euclid's GCD | [Link](math/gcd/euclid-gcd.cpp) |
+
+### GCD
+| S.no. | Algorithm | Implementation |
+| --- | --- | --- |
+| 1 | Euclid's GCD | [Link](math/gcd/euclid-gcd.cpp) |
+
+### Functions
+| S.no. | Algorithm | Implementation |
+| --- | --- | --- |
+| 1 | Euler's Totient Function | [Link](math/gcd/euler-totient-function.cpp) |
