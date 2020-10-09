@@ -40,18 +40,8 @@ I really hope that more people can benefit from this list!
 
 Oh, it's just (Math + Concepts) 😉
 
-### Primality
-
 | S.no. | Algorithm | Implementation |
 | --- | --- | --- |
 | 1 | Sieve of Eratosthenes | [Link](math/primality/sieve-of-eratosthenes.cpp) |
-
-### GCD
-| S.no. | Algorithm | Implementation |
-| --- | --- | --- |
-| 1 | Euclid's GCD | [Link](math/gcd/euclid-gcd.cpp) |
-
-### Functions
-| S.no. | Algorithm | Implementation |
-| --- | --- | --- |
-| 1 | Euler's Totient Function | [Link](math/functions/euler-totient-function.cpp) |
+| 2 | Euclid's GCD | [Link](math/gcd/euclid-gcd.cpp) |
+| 3 | Euler's Totient Function | [Link](math/functions/euler-totient-function.cpp) |
