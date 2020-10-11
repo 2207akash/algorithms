@@ -45,4 +45,4 @@ Oh, it's just (Math + Concepts) 😉
 | 1 | Sieve of Eratosthenes | [Link](math/primality/sieve-of-eratosthenes.cpp) |
 | 2 | Euclid's GCD | [Link](math/gcd/euclid-gcd.cpp) |
 | 3 | Euler's Totient Function | [Link](math/functions/euler-totient-function.cpp) |
-| 4 | Factorial | [Link](math/recursion/recursion.cpp) |
+| 4 | Factorial | [Link](math/factorial/recursion.cpp) |
