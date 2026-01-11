@@ -2,6 +2,6 @@
 A list of algorithms implemented in C++ & Swift.
 
 ## Search Algorithms
-| SNo | Type | Swift |
-| --- | --- | --- |
-| 1 | Linear Search | [Code](Search/Swift/Linear-Search.playground/Contents.swift) |
+| SNo | Type | Code | Docs |
+| --- | --- | --- | --- |
+| 1 | Linear Search | [Swift](search/linear-Search/linear-search.swift) |  |
