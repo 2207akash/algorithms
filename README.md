@@ -1,5 +1,5 @@
 # algorithms
-A list of algorithms implemented in C++ & Swift.
+A list of algorithms implemented in C++ and Swift.
 
 ## Search Algorithms
 | SNo | Type | Code | Docs |
