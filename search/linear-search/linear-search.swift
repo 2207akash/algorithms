@@ -1,3 +1,8 @@
+/*
+    Author: Akash Sen
+    Linear Search
+*/
+
 // MARK: Linear search algorithm
 func linearSearch<T: Equatable>(key: T, items: [T]) -> Int? {
     for (index, item) in items.enumerated() {
