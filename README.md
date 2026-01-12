@@ -11,3 +11,4 @@ A list of algorithms implemented in C++ and Swift.
 | SNo | Type | Code |  |
 | --- | --- | --- | --- |
 | 1 | Selection Sort | [Swift](sorting/selection-sort/SelectionSort.swift) | [Docs](sorting/selection-sort/SelectionSort.md) |
+| 2 | Bubble Sort | [Swift](sorting/bubble-sort/BubbleSort.swift) | [Docs](sorting/bubble-sort/BubbleSort.md) |
