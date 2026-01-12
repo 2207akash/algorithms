@@ -4,7 +4,7 @@
 */
 
 // MARK: Binary search algorithm
-func binarySearch<T: Equatable>(key: T, items: [T]) -> Int? {
+func binarySearch<T: Comparable>(key: T, items: [T]) -> Int? {
     var low = 0, high = items.count - 1
     while low <= high {
         let mid = (low + high) / 2
@@ -23,7 +23,7 @@ func binarySearch<T: Equatable>(key: T, items: [T]) -> Int? {
 // MARK: Usage
 var items = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-if let itemIndex = linearSearch(key: 7, items: items) {
+if let itemIndex = binarySearch(key: 7, items: items) {
     print("Item found in list at index: \(itemIndex)")
 } else {
     print("Item not found in list")
